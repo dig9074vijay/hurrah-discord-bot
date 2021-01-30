@@ -6,6 +6,6 @@ You can add it into your server by authorizing it at : [Hurrah Bot](https://disc
 - Local Setup
  - Clone it
  - Run 
-   ```javascript
-   npm run dev
-   ```
+ ```javascript
+ npm run dev
+ ```
